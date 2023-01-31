@@ -1,0 +1,16 @@
+{
+  "name": "demomidtrans",
+  "version": "1.0.0",
+  "description": "melakukan pembayaran midtrans",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Hadid",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.9.0",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "prettier": "^2.8.3"
+  }
+}
